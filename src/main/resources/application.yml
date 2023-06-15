@@ -1,0 +1,10 @@
+spring:
+  elasticsearch:
+    rest:
+      uris: 127.0.0.1:9200
+      hostname: 127.0.0.1  #"es-cn-tl330texc001lmavp.public.elasticsearch.aliyuncs.com"
+      port: 9200
+      username: elastic
+      password: 123456
+      scheme: http
+
